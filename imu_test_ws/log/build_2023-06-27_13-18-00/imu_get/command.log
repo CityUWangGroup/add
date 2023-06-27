@@ -1,0 +1,2 @@
+Invoking command in '/home/duanye/code/imu_test_ws/build/imu_get': /usr/bin/cmake /home/duanye/code/imu_test_ws/imu_get -DCMAKE_INSTALL_PREFIX=/home/duanye/code/imu_test_ws/install/imu_get
+Invoked command in '/home/duanye/code/imu_test_ws/build/imu_get' returned '1': /usr/bin/cmake /home/duanye/code/imu_test_ws/imu_get -DCMAKE_INSTALL_PREFIX=/home/duanye/code/imu_test_ws/install/imu_get
