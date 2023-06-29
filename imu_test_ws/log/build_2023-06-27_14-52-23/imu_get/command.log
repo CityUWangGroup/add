@@ -1,0 +1,2 @@
+Invoking command in '/home/cityu/code/add/imu_test_ws/build/imu_get': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/galactic /usr/bin/cmake /home/cityu/code/add/imu_test_ws/imu_get -DCMAKE_INSTALL_PREFIX=/home/cityu/code/add/imu_test_ws/install/imu_get
+Invoked command in '/home/cityu/code/add/imu_test_ws/build/imu_get' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/galactic /usr/bin/cmake /home/cityu/code/add/imu_test_ws/imu_get -DCMAKE_INSTALL_PREFIX=/home/cityu/code/add/imu_test_ws/install/imu_get
